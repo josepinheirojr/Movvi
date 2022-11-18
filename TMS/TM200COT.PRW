@@ -92,9 +92,6 @@ ReCalc()
 Utilizado para realizar o calculo e verifica se esta dentro da
 faixa de minima e maxima para recalculo da cotação.
 
-@author Jose Luiz Pinheiro Junior         
-@since 18/11/2022
-@version 1.0
 -----------------------------------------------------------/*/
 Static Function ReCalc(xValNFC, xValCOT)
 Local lRet 		:= (xValNFC <> xValCOT) 
